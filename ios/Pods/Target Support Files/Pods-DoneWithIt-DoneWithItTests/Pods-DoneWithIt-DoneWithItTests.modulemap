@@ -1,0 +1,6 @@
+module Pods_DoneWithIt_DoneWithItTests {
+  umbrella header "Pods-DoneWithIt-DoneWithItTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

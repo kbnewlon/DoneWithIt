@@ -1,0 +1,6 @@
+module Pods_DoneWithIt {
+  umbrella header "Pods-DoneWithIt-umbrella.h"
+
+  export *
+  module * { export * }
+}
